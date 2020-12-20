@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-My first time at aoc, trying with cpp and python.
+My first time at aoc - cpp and python
 
 ### Running the programs
 
